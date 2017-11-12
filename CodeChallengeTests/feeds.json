@@ -1,0 +1,87 @@
+{
+    "status": "ok",
+    "source": "bbc-sport",
+    "sortBy": "top",
+    "articles": [
+                 {
+                 "author": "BBC Sport",
+                 "title": "Wales cut Wallaby lead, Ireland extend advantage v SA",
+                 "description": "Watch, listen and follow live text as Wales host Australia and Ireland face South Africa after wins for England and Scotland.",
+                 "url": "http://www.bbc.co.uk/sport/live/rugby-union/41525310",
+                 "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-sport-opengraph/1.1.1/images/bbc-sport-logo.png",
+                 "publishedAt": "2017-11-11T17:56:59Z"
+                 },
+                 {
+                 "author": "BBC Sport",
+                 "title": "Bottas on pole as Hamilton crashes",
+                 "description": "Live text and 5 live sports extra coverage of Brazilian GP qualifying, where Lewis Hamilton has crashed on his first lap.",
+                 "url": "http://www.bbc.co.uk/sport/live/formula1/40625076",
+                 "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-sport-opengraph/1.1.1/images/bbc-sport-logo.png",
+                 "publishedAt": "2017-11-11T17:59:15Z"
+                 },
+                 {
+                 "author": "BBC Sport",
+                 "title": "Brazilian Grand Prix: F1 'needs to do more' to keep teams safe, says Lewis Hamilton",
+                 "description": "Lewis Hamilton says Formula 1 'needs to do more' after members of his Mercedes team were robbed at gunpoint in Sao Paulo on Friday night.",
+                 "url": "http://www.bbc.co.uk/sport/formula1/41954941",
+                 "urlToImage": "http://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/5712/production/_98709222_hamilton_getty.jpg",
+                 "publishedAt": "2017-11-11T13:06:44Z"
+                 },
+                 {
+                 "author": "BBC Sport",
+                 "title": "Autumn international: Scotland 44-38 Samoa",
+                 "description": "Scotland withstand a second-half Samoa fightback to open their autumn account with a try-filled victory at Murrayfield.",
+                 "url": "http://www.bbc.co.uk/sport/rugby-union/41934487",
+                 "urlToImage": "http://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/14C9/production/_98712350_14429738.jpg",
+                 "publishedAt": "2017-11-11T16:22:28Z"
+                 },
+                 {
+                 "author": "BBC Sport",
+                 "title": "African Footballer of the Year - who will be on the shortlist?",
+                 "description": "Who will be shortlisted for the 2017 African Footballer of the Year award? Follow live text coverage here to find out.",
+                 "url": "http://www.bbc.co.uk/sport/live/football/41802267",
+                 "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-sport-opengraph/1.1.1/images/bbc-sport-logo.png",
+                 "publishedAt": "2017-11-11T17:54:26Z"
+                 },
+                 {
+                 "author": "BBC Sport",
+                 "title": "Women's Ashes 2017: Ellyse Perry hits record double century as Australia dominate England",
+                 "description": "Ellyse Perry becomes only the seventh woman to hit a Test double century as Australia take control of the Women's Ashes Test against England.",
+                 "url": "http://www.bbc.co.uk/sport/cricket/41953372",
+                 "urlToImage": "http://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/08FD/production/_98710320_ellyse_perry_getty3.jpg",
+                 "publishedAt": "2017-11-11T13:33:13Z"
+                 },
+                 {
+                 "author": "BBC Sport",
+                 "title": "Lewis Hamilton crashes in Brazilian GP qualifying as Valtteri Bottas takes pole",
+                 "description": "Lewis Hamilton starts from the back of the Brazilian GP grid following a crash, as team-mate Valtteri Bottas takes pole.",
+                 "url": "http://www.bbc.co.uk/sport/formula1/41955286",
+                 "urlToImage": "http://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/6E3D/production/_98712282_hamilton.jpg",
+                 "publishedAt": "2017-11-11T17:09:05Z"
+                 },
+                 {
+                 "author": "BBC Sport",
+                 "title": "Autumn international: England 21-8 Argentina",
+                 "description": "England open their autumn Tests campaign with a workmanlike win over Argentina in an uninspiring match at Twickenham.",
+                 "url": "http://www.bbc.co.uk/sport/rugby-union/41936012",
+                 "urlToImage": "http://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/4D09/production/_98712791_rokoguduni.jpg",
+                 "publishedAt": "2017-11-11T16:54:23Z"
+                 },
+                 {
+                 "author": "BBC Sport",
+                 "title": "Trampoline World Championships: Kristof Willerton secures gold for British tumbling team",
+                 "description": "Great Britain's Kristof Willerton secures men's tumbling team gold at the Trampoline World Championships in Sochi, finishing above China and Denmark.",
+                 "url": "http://www.bbc.co.uk/sport/gymnastics/41954914",
+                 "urlToImage": "http://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/9DD1/production/_98710404_p05mrqyn.jpg",
+                 "publishedAt": "2017-11-11T13:06:44Z"
+                 },
+                 {
+                 "author": "BBC News",
+                 "title": "The cosplaying cage fighter",
+                 "description": "One of the world's best female fighters is also a self-confessed \"dork\" who likes making costumes.",
+                 "url": "http://www.bbc.co.uk/news/world-us-canada-41936823",
+                 "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/196D/production/_98690560_angelahillufc.jpg",
+                 "publishedAt": null
+                 }
+                 ]
+}

@@ -8,15 +8,18 @@
 
 import UIKit
 import CoreData
+import AsyncDisplayKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
+    //MARK: application life cycle
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        createMainViewController();
+        setUpAppearance()
         return true
     }
 
@@ -88,6 +91,25 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
     }
-
+    
+    //Support functions
+    
+    func createMainViewController() {
+        let feedsViewController = FeedViewController()
+        let navController = UINavigationController(rootViewController: feedsViewController)
+        window?.rootViewController = navController
+        window?.makeKeyAndVisible()
+    }
+    
+    func setUpAppearance() {
+        UINavigationBar.appearance().setBackgroundImage(UIImage(), for: .default)
+        UINavigationBar.appearance().backgroundColor = AppColor.mainColor
+        UINavigationBar.appearance().tintColor = .white
+        UIApplication.shared.statusBarStyle = .lightContent
+        guard let statusBar = UIApplication.shared.value(forKeyPath: "statusBarWindow.statusBar") as? UIView else { return }
+        statusBar.backgroundColor =  AppColor.mainColor
+    }
+    
 }
+
 
